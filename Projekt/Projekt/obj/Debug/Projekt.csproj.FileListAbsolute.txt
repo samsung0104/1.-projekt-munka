@@ -1,0 +1,7 @@
+C:\Users\samsu\Documents\SharpDevelop Projects\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\samsu\Documents\SharpDevelop Projects\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\samsu\Documents\SharpDevelop Projects\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\samsu\Documents\SharpDevelop Projects\Projekt\Projekt\obj\Debug\Projekt.MainForm.resources
+C:\Users\samsu\Documents\SharpDevelop Projects\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.Cache
+C:\Users\samsu\Documents\SharpDevelop Projects\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\samsu\Documents\SharpDevelop Projects\Projekt\Projekt\obj\Debug\Projekt.pdb
