@@ -226,7 +226,7 @@ namespace Projekt
 			this.label8.Name = "label8";
 			this.label8.Size = new System.Drawing.Size(138, 23);
 			this.label8.TabIndex = 20;
-			this.label8.Text = "Dátum";
+			this.label8.Text = "Idő";
 			// 
 			// MainForm
 			// 
